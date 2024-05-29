@@ -1,0 +1,26 @@
+/* 
+    Created on : May 15, 2024, 8:33:54 PM
+    Author     : Yashashvini 
+*/
+
+.bg-custom{
+    background-color: #4f3e32 
+}
+
+.navbar-custom{
+    color: burlywood
+}
+
+.navbar .nav-item .nav-link{
+    font-size: 20px;
+    color:burlywood;
+}
+.navbar .form-inline{
+    size: 10px;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+    background: burlywood;
+    color: white;
+    border-radius: 10px;
+}
