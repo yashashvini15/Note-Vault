@@ -42,7 +42,4 @@
 ## **Contributing**
 Contributions are welcome! Fork the repository and create a new branch for your feature or bug fix. Once your changes are made, open a pull request for review.
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 Enjoy using Note Vault for all your note-taking needs! If you have any questions or feedback, feel free to open an issue.
