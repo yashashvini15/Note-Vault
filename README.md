@@ -11,7 +11,7 @@
 - **NetBeans IDE**: Developed and tested in NetBeans IDE for robust performance.
 
 ## **Technologies Used**
-- **Java 1.8**
+- **Java 8**
 - **HTML**
 - **CSS**
 - **Bootstrap**
